@@ -1,6 +1,8 @@
 # ChestXRayClassification
 
-This code depends on matlab 2021b and the Deep Learning Toolbox along with the Resnet18 Add-On Support Package
+In this codebase, we use the chest x-ray dataset for Pneumonia classification (https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
+
+This code depends on matlab 2021b and the Deep Learning Toolbox along with the Resnet18 Add-On Support Package.
 
 # Begin by Opening Experiment Manager
 
