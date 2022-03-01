@@ -23,7 +23,7 @@ augmentation = [0 1],
 transformFunction = "none",
 network = ["resnet18_ImgNet" "resnet18_Rng"],
 inputNormalization = ["none"],
- and myInitialLearnRate = [1e-5 1e-6]
+ and myInitialLearnRate = [1e-5 1e-6].
 You should now be able to recreate our experiments!
 
 # Viewing Results
