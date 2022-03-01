@@ -1,4 +1,4 @@
-# ChestXRayClassification
+# Chest X-Ray Classification
 
 In this codebase, we use the chest x-ray dataset for Pneumonia classification (https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
 
