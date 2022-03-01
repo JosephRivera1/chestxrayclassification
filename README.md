@@ -29,3 +29,9 @@ You should now be able to recreate our experiments!
 After hitting "Run", you should kick off your experiments and return a list of results similar to the one below. You can view training plots, confusion matrices, and the output of your custom metrics. We added a custom metric to evaluate our test accuracy in this case.
 
 ![image](https://user-images.githubusercontent.com/48141934/156087505-6716c3d1-5574-4b2f-af2a-cec9cf9999dd.png)
+
+
+# Visualization with grad-CAM
+
+Next you can use the gradCAM_MEDIMG.m script to visualize a trained network's prediction results. The output is shown below:
+![image](https://user-images.githubusercontent.com/48141934/156088611-932ab863-58b0-4096-aa5a-2c967e27cc0d.png)
