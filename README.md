@@ -17,13 +17,13 @@ The metric function lets us track additional metrics while training. In this cas
 # Hyperparameter Table
 
 create a table of hyperparameters as shown, you should have:
-_miniBatchSize = 128,
+miniBatchSize = 128,
 numEpochs = 10,
 augmentation = [0 1],
 transformFunction = "none",
 network = ["resnet18_ImgNet" "resnet18_Rng"],
 inputNormalization = ["none"],
-_ and _myInitialLearnRate = [1e-5 1e-6]_
+ and myInitialLearnRate = [1e-5 1e-6]
 You should now be able to recreate our experiments!
 
 # Viewing Results
