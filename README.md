@@ -6,14 +6,14 @@ Begin by opening Experiment Manager
 
 ![image](https://user-images.githubusercontent.com/48141934/156086881-d291ac70-972c-458f-b7b6-c00eff356981.png)
 
-Replace the setup function and metric function with ours, as seen above
+Point your setup function and metric function to our code as seen above.
 
 create a table of hyperparameters as shown, you should have:
-_miniBatchSize
-numEpochs
-augmentation
-transformFunction
-network
-inputNormalization
-myInitialLearnRate_
+_miniBatchSize,
+numEpochs,
+augmentation,
+transformFunction,
+network,
+inputNormalization,
+_ and _myInitialLearnRate_
 You should now be able to recreate our experiments!
